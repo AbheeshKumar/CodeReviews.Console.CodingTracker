@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 namespace CodingSession
 {
     internal class CodingSessionModel
